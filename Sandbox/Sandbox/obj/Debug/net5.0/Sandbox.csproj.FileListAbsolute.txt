@@ -1,0 +1,16 @@
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\bin\Debug\net5.0\Sandbox.exe
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\bin\Debug\net5.0\Sandbox.deps.json
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\bin\Debug\net5.0\Sandbox.runtimeconfig.json
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\bin\Debug\net5.0\Sandbox.runtimeconfig.dev.json
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\bin\Debug\net5.0\Sandbox.dll
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\bin\Debug\net5.0\ref\Sandbox.dll
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\bin\Debug\net5.0\Sandbox.pdb
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.csproj.AssemblyReference.cache
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.AssemblyInfo.cs
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.dll
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\ref\Sandbox.dll
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.pdb
+C:\Users\2219359\source\repos\jolsoncruz\VC-SysDev\Sandbox\Sandbox\obj\Debug\net5.0\Sandbox.genruntimeconfig.cache
